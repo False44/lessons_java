@@ -1,0 +1,14 @@
+Alt + Insert - create package, class, file
+ctrl + alt + l -format code
+ctrl + d - duplicate
+ctrl + e - list of last classes
+ctrl + TAB - move to last window(class)
+ctrl + / - one line comments
+ctrl + shift + / - many lines comments
+sout + TAB - System.out.println();
+psvm + TAB - public static void main(String[] args);
+after new type ctrl + shift + space - autocomplition
+ctrl + alt + v - create variable
+.var + TAB at end of statement
+shift + F6 - rename variable, directory etc.
+ctrl + shift + u - change register of word
