@@ -12,3 +12,4 @@ ctrl + alt + v - create variable
 .var + TAB at end of statement
 shift + F6 - rename variable, directory etc.
 ctrl + shift + u - change register of word
+ctrl + o - overrides methods

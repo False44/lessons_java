@@ -10,6 +10,6 @@ public class TestMod {
      */
     public static void main(String[] args) {
         LearnModificator modificator = new LearnModificator("");
-//        modificator.print();
+//        modificator.say();
     }
 }

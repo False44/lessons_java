@@ -21,7 +21,7 @@ class TestEnum {
     public static void main(String[] args) {
         Sex sex = Sex.WOMAN;
         LearnClass learnClass = new LearnClass(1, "5");
-//        learnClass.print(Sex.MAN);
+//        learnClass.say(Sex.MAN);
        /* for (Sex sex1 : Sex.values()) {
             System.out.println(sex1);
         }*/
