@@ -1,0 +1,18 @@
+git init - создание репозитория
+git status - проверка статуса репозитория
+git add name_of_file or name_of_dir - добавление изменений в индекс
+git diff - посмотреть изменения
+git commit -m "message for commit"
+git log --graph - просмотр коммитов
+git checkout hash_sum_of_commit - переход на коммит с данной хэш-суммой
+git remote add name_of_pseudonim - создание пседонима для url репозитория
+git remote -v - список всех псевдонимов + urls
+git push pseudonim_of_repo branch(master) - отправка данных на удаленный репозиторий
+git branch name_of_branch - создание ветки, но ты остаешься на ветке родителя
+git checkout -b name_of_branch - создание ветки и переход на нее
+git branch - просмотр всех веток
+git branch -d name_of_branch - удаление ветки
+git checkout name_of_branch - переход на ветку
+git merge - слияние двух веток
+git mergetool - вызов редактора для решения конфликтов
+
